@@ -1,0 +1,16 @@
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\bin\Debug\DoorsApplication.exe.config
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\bin\Debug\DoorsApplication.exe
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\bin\Debug\DoorsApplication.pdb
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.csproj.AssemblyReference.cache
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.Form1.resources
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.Properties.Resources.resources
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.csproj.GenerateResource.cache
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.csproj.CoreCompileInputs.cache
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.exe
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.pdb
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.MainSite.resources
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.Customers.resources
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.Workers.resources
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.Products.resources
+C:\Users\77079\source\repos\DoorsApplication\DoorsApplication\obj\Debug\DoorsApplication.Journal.resources
